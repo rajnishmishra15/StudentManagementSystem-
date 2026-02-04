@@ -41,3 +41,8 @@ The application allows users to perform CRUD operations on student records with 
 ```bash
 javac src/com/studentmanagement/*.java
 java com.studentmanagement.Main
+
+👨‍💻 Author
+
+Rajnish Mishra
+(Java Developer | Software Engineer)
